@@ -36,7 +36,7 @@ I chose each of these technologies for specific reasons:
 **File Storage**: Cloudinary (because I'm not crazy enough to store images in the database)
 **Deployment**: Render
 
-## Getting This Running on Your Machine 🚀
+## Getting This Running on Your Machine 
 
 Alright, let's get you set up. It's easier than it looks, I promise.
 
@@ -106,7 +106,7 @@ This starts your React app at `http://localhost:5173`
 
 Open `http://localhost:5173` in your browser and you should see the login screen. Create an account and start chatting with yourself (we've all been there).
 
-## Deploying This Thing 🚢
+## Deploying This Thing 
 
 Want to show this off to your friends? Here's how to get it live:
 
@@ -119,7 +119,7 @@ Want to show this off to your friends? Here's how to get it live:
 5. **Add your environment variables**: Copy everything from your `.env` but set `NODE_ENV=production`
 6. **Deploy and cross your fingers**: Render will build everything and give you a live URL
 
-## What I Learned Building This 🤔
+## What I Learned Building This 
 
 This project taught me a lot, and I made plenty of mistakes along the way. Here are some insights that might help you:
 
