@@ -5,6 +5,9 @@ Link: https://messenger-chat-app.onrender.com
 Hey there!  I built Messenger because I was tired of clunky chat apps and wanted to create something that felt instant and beautiful. It's a full-stack real-time chat application that actually works the way you'd expect it to - no delays, no refresh buttons, just pure conversation.
 
  Built with the MERN stack and Socket.io, it handles everything from secure authentication to instant messaging.
+ 
+ <img width="1919" height="801" alt="Screenshot 2025-08-29 012144" src="https://github.com/user-attachments/assets/71bf6163-3166-48d0-a284-ff60dff6c404" />
+
 <img width="1919" height="816" alt="Screenshot 2025-08-29 012011" src="https://github.com/user-attachments/assets/cb4b53ce-7eb3-4e9c-a461-ca34d40725d0" />
 
 
